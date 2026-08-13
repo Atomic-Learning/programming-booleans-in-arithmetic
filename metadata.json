@@ -12,7 +12,7 @@
     "duration": 1,
     "prerequisites": [
         "programming-booleans",
-        "programming-arithmetic"
+        "programming-arithmetic-operators"
     ],
     "related": [
     ]
